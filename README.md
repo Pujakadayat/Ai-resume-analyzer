@@ -34,7 +34,7 @@ npm
 
 Clone Repository
 
-git clone https://github.com/your-username/ai-resume-analyzer.git
+git clone https://github.com/Pujakadayat/Ai-resume-analyzer.git
 cd ai-resume-analyzer
 
 Install Dependencies
