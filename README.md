@@ -44,14 +44,6 @@ Run the Development Server
 npm run dev
 Now open http://localhost:5173 to view the project in your browser.
 
-🔗 Assets
-Assets and snippets used in this project are available in the video kit provided by JavaScript Mastery.
-<img src="public/readme/videokit.webp" alt="Video Kit Banner">
 
-🚀 More
-This project was a great way to practice:
-React & React Router v7
-State management with Zustand
-Using Puter.js for cloud & AI features
-Styling with Tailwind
-I’ll continue enhancing it with additional features and improvements.
+
+
